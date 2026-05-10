@@ -254,17 +254,13 @@ Use Live Server Extension in VS Code
 
 ## Live Demo
 
-```bash
 https://future-fs-03-beta-six.vercel.app/
-```
 
 ---
 
 ## Repository
 
-```bash
 https://github.com/devadharshinichandramohan-ops/FUTURE_FS_03
-```
 
 ---
 
